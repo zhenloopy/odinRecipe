@@ -1,0 +1,25 @@
+* {
+    /*outline: 5px solid #598C;*/
+}
+
+
+div {
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+.main-title { color: rgb(30, 20, 80);
+    background-color: #548CAB;
+    font-family: "Times New Roman", serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.subtitle {
+    background-color: #548C;
+    font-weight: 800;
+    font-size: 20px;
+}
+.main-content {
+    background-color: rgb(200, 200, 200);
+}
